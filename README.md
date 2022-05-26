@@ -22,6 +22,7 @@ npm install -g npm
 
 ---
 
+### 3. Deploying Step-by-Step
 Once everything needed is installed, and your file structure is correct,
 run these commands:
 ```
