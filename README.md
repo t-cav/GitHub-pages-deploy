@@ -1,3 +1,4 @@
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # GitHub-Pages-Deploy (2022)
 
 What is this repo? <br>
