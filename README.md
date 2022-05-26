@@ -52,4 +52,4 @@ This is where I will explain how to updated gh-pages site once it is deployed. I
 
 ---
 
-Made by Thomas Cavalcante, May, 2022.
+Repo by Thomas Cavalcante, May, 2022.
