@@ -1,8 +1,8 @@
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 # GitHub-Pages-Deploy (2022)
 
-What is this repositories(repo)? <br>
-- ***This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.***
+### What is this repository(repo)? <br>
+- *This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.*
 
 ## 📖 Table of Contents
 1. Packages & Installations Needed
