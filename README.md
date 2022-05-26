@@ -51,11 +51,13 @@ git branch -M main
 git remote add origin https://github.com/"username"/"reponame"/
 git push -u origin main
 ```
-Now we are almost ready to go live through GitHub Pages. The next command to run is:
+Now we are almost ready to go live through GitHub Pages. We can do this using the deploy script in the .json file using the following command:
 
 ```
 npm run deploy
 ```
+
+
 ---
 
 ### 4. Updates & Other Important Notes
