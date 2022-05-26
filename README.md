@@ -37,9 +37,9 @@ npm init -y
 npm i gh-pages
 ```
 After the above commands are ran, go into to package.json file created. Change: </br>
-> "deploy": "gh-pages -d dist" </br>
+> "deploy": "gh-pages -d dist" <
 to 
-> "deploy": "gh-pages -d dist"
+> "deploy": "gh-pages -d dist" <
 ```
 git init
 git add .
