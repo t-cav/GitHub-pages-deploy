@@ -19,7 +19,6 @@ List & Links:
 ```
 npm install -g npm
 ```
-- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ---
 
