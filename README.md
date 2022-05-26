@@ -3,10 +3,10 @@
 What is this repo? ***This is a quick start guide to deploy a website through GitHub pages using npm commands.***
 
 ## Table of Contents
-- I. One
-- II. Two
-- III. Three
-- IV. Four
+I. One <br>
+II. Two <br>
+III. Three <br>
+IV. Four <br>
 
 Once everything needed is installed, and your file structure is correct,
 run these commands:
