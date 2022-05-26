@@ -1,5 +1,5 @@
 [![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)](https://app.travis-ci.com/cavalcantethomas/GitHub-Pages-Deploy.svg?branch=main)
-# GitHub Pages Deploy (2022)
+# GitHub Pages Deployment (2022)
 
 **What is this repository(repo)?** <br>
 - *This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.*
