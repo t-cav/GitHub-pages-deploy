@@ -1,7 +1,5 @@
 # GitHub-Pages-Deploy (2022)
 
-==highlight==
-
 What is this repo? <br>
 - ***This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.***
 
