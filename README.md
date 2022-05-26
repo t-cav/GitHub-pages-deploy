@@ -1,12 +1,16 @@
 # GitHub-Pages-Deploy (2022)
 
-What is this repo? ***This is a quick start guide to deploy a website through GitHub pages using npm commands.***
+What is this repo? ***This is a quick start guide to deploy a website through GitHub pages using [npm]([https://www.example.com](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.***
 
 ## Table of Contents
 1. Packages & Installations Needed
 2. File Structure
 3. Deploying Step-by-Step
 4. Updates & Other Important Notes
+
+
+
+
 
 Once everything needed is installed, and your file structure is correct,
 run these commands:
