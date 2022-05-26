@@ -32,15 +32,17 @@ The file structure is very important when deploying a site to GitHub Pages. Foll
 Once everything needed is installed, and your file structure is correct,
 run these commands: </br>
 </br>
-***(Make sure you do them in the order given below, and change the "username" & "reponame" to match your own in the origin link.)***
+***(Make sure you do them in the order given below.)***
 ```
 npm init -y
 npm i gh-pages
 ```
-After the above commands are ran, two .json files will be created. </br>
-Open the one with the name "package.json." </br>
-Then, change `"test": "echo \"Error: no test specified\" && exit 1"` to `"deploy": "gh-pages -d dist"`
+- After the above commands are ran, two .json files will be created. </br>
+- Open the one with the name "package.json." </br>
+- Then, change `"test": "echo \"Error: no test specified\" && exit 1"` to `"deploy": "gh-pages -d dist"`
 
+The next step is to run these git commands.
+- ***A note to change the "username" & "reponame" to match your own in the origin link.***
 ```
 git init
 git add .
