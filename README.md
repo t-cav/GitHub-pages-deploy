@@ -42,7 +42,7 @@ npm i gh-pages
 - Then, change `"test": "echo \"Error: no test specified\" && exit 1"` to `"deploy": "gh-pages -d dist"`
 
 The next step is to run these git commands.
-- ***A note to change the "username" & "reponame" to match your own in the origin link.***
+***(A note to change the "username" & "reponame" to match your own in the origin link.)***
 ```
 git init
 git add .
