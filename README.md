@@ -6,13 +6,13 @@
 - *There are different ways to deploy, but this is the way that has worked for me mutiple times over.*
 
 ## Table of Contents
-1. Packages & Installations Needed
+1. Packages & Installations
 2. File Structure
 3. Deploying Step-by-Step
 4. Updates & Other Important Notes
 ---
 
-### 1. Packages & Installations Needed
+### 1. Packages & Installations
 List & Links:
 - [Visual Studio Code](https://code.visualstudio.com/download) (or your preferred text editor.)
 - [Node.js](https://nodejs.org/en/download/)
