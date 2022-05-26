@@ -20,7 +20,7 @@ npm install -g npm
 ```
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-
+---
 
 Once everything needed is installed, and your file structure is correct,
 run these commands:
@@ -37,5 +37,5 @@ git branch -M main
 git remote add origin https://github.com/<username>/<reponame>
 git push -u origin main
 ```
-
+---
 
