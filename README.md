@@ -11,6 +11,7 @@ What is this repo? <br>
 
 ### 1. Packages & Installations Needed
 List & Links:
+- [Visual Studio Code](https://code.visualstudio.com/download) (*Or your preferred text editor.)
 - [Node.js](https://nodejs.org/en/download/)
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (*Command below, once Node.js is installed)
 ```
