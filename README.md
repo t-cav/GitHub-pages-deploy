@@ -8,6 +8,7 @@ What is this repo? <br>
 2. File Structure
 3. Deploying Step-by-Step
 4. Updates & Other Important Notes
+---
 
 ### 1. Packages & Installations Needed
 List & Links:
