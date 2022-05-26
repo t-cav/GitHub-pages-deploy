@@ -1,6 +1,6 @@
 # GitHub-Pages-Deploy (2022)
 
-What is this repo? This is a quick start guide to deploy a website through github pages using npm.
+What is this repo? ***This is a quick start guide to deploy a website through github pages using npm.***
 
 ## Table of Contents
 
