@@ -24,7 +24,7 @@ npm install -g npm
 ---
 
 ### 2. File Structure
-The file structure is very important when deploying a site to GitHub Pages. Follow the exact structure above and/or play the video below to learn how to set up the folders and files.
+The file structure is very important when deploying a site to GitHub Pages. Follow the exact structure above in this repo or play the video below to learn how to set up the folders & files.
 
 ---
 
