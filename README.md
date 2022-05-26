@@ -4,7 +4,7 @@
 **What is this repository(repo)?** <br>
 - *This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.*
 
-## 📖 Table of Contents
+## Table of Contents
 1. Packages & Installations Needed
 2. File Structure
 3. Deploying Step-by-Step
