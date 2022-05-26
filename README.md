@@ -3,6 +3,7 @@
 
 **What is this repository(repo)?** <br>
 - *This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.*
+- *There are different ways to but this is the way that has worked for mutiple times over.*
 
 ## Table of Contents
 1. Packages & Installations Needed
@@ -36,7 +37,9 @@ run these commands: </br>
 npm init -y
 npm i gh-pages
 ```
-After the above commands are ran, go into to package.json file created. Change `"deploy": "gh-pages -d dist"` to `"deploy": "gh-pages -d dist"`
+After the above commands are ran, two .json files will be created. </br>
+Open the one with the name "package.json." </br>
+Then, change `"test": "echo \"Error: no test specified\" && exit 1"` to `"deploy": "gh-pages -d dist"`
 
 ```
 git init
