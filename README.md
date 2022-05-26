@@ -41,7 +41,7 @@ npm i gh-pages
 - Open the one with the name "package.json." </br>
 - Then, change `"test": "echo \"Error: no test specified\" && exit 1"` to `"deploy": "gh-pages -d dist"`
 
-The next step is to run these git commands. </br>
+The next step is to run these git commands: </br>
 ***(A note to change the "username" & "reponame" to match your own in the origin link.)***
 ```
 git init
