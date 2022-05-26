@@ -1,5 +1,7 @@
 # GitHub-Pages-Deploy (2022)
-I need to highlight these ==very important words==.
+
+<mark>Marked text</mark>
+
 What is this repo? <br>
 - ***This is a quick start guide to deploy a website through GitHub Pages using [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) commands.***
 
