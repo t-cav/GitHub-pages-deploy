@@ -26,7 +26,7 @@ npm install -g npm
 Once everything needed is installed, and your file structure is correct,
 run these commands: </br>
 </br>
-***(Make sure you do them in the order given below, and change the <username> & <reponame> to match your own.)***
+***(Make sure you do them in the order given below, and change the '<username>' & '<reponame>' to match your own.)***
 ```
 npm init -y
 npm i gh-pages
