@@ -12,7 +12,7 @@ What is this repo? <br>
 ### 1. Packages & Installations Needed
 List & Links:
 - [Node.js](https://nodejs.org/en/download/)
-- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (Command below)
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (Command below, once Node.js is installed)
 ```
 npm install -g npm
 ```
