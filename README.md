@@ -51,8 +51,12 @@ git branch -M main
 git remote add origin https://github.com/"username"/"reponame"/
 git push -u origin main
 ```
----
+Now we are almost ready to go live through GitHub Pages. The next command to run is:
 
+```
+npm run deploy
+```
+---
 
 ### 4. Updates & Other Important Notes
 This is where I will explain how to updated gh-pages site once it is deployed. In addition, I will cover any possible problems and solutions that may arise through this process.
