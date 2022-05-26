@@ -57,7 +57,7 @@ We can now go live by using the deploy script in the .json file using the follow
 npm run deploy
 ```
 - Your website should now be live through GitHub Pages! (if not then see below)
-- If you want to update changes made, run `npm run deploy` after those changes are made and saved.
+- If you want to update changes to your website, make those changes and then run `npm run deploy`.
 
 ---
 
