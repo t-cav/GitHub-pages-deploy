@@ -10,7 +10,8 @@ What is this repo? <br>
 4. Updates & Other Important Notes
 
 ### 1. Packages & Installations Needed
-
+List & Links:
+- [node.js](https://nodejs.org/en/download/)
 
 
 
