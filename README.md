@@ -44,7 +44,9 @@ git push -u origin main
 ### 4. Updates & Other Important Notes
 This is where I will explain how to updated gh-pages site once it is deployed. In addition, I will cover any possible problems and solutions that may arise through this process.
 
-![Missing Image](missingfile.gif)
+<p align="center">
+  ![Missing Image](missingfile.gif)
+</p>
 
 ---
 
