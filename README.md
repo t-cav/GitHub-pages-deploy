@@ -26,7 +26,7 @@ npm install -g npm
 Once everything needed is installed, and your file structure is correct,
 run these commands: </br>
 </br>
-***(*Make sure you do them once after another, in the order given below)***
+***(Make sure you do them once after another, in the order given below)***
 ```
 npm init -y
 npm i gh-pages
