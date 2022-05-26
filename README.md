@@ -44,7 +44,7 @@ git push -u origin main
 ### 4. Updates & Other Important Notes
 This is where I will explain how to updated gh-pages site once it is deployed. In addition, I will cover any possible problems and solutions that may arise through this process.
 
-Why do my images/videos/etc look like ![this](image.jpg) now once I have deployed the site?
+- Why do my images/videos/etc look like ![this](image.jpg) now once I have deployed the site?
 
 <p align="center">
   <img src="missingfile.gif" />
