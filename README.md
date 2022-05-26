@@ -9,7 +9,7 @@ What is this repo? <br>
 3. Deploying Step-by-Step
 4. Updates & Other Important Notes
 
-### Packages & Installations Needed
+### 1. Packages & Installations Needed
 
 
 
