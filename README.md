@@ -39,7 +39,7 @@ npm i gh-pages
 ```
 - After the above commands are ran, two .json files will be created. </br>
 - Open the one with the name "package.json." </br>
-- Then, change: </br>
+- Then, in the scripts, change: </br>
 `"test": "echo \"Error: no test specified\" && exit 1"` </br>
 to </br>
 `"deploy": "gh-pages -d dist"`
